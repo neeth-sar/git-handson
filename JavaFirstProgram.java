@@ -6,7 +6,7 @@ class JavaExample {
 
 		System.out.println("WELCOME JAVA LIVE SESSION");
 
-		System.out.println("WELCOME JAVA TRAINING");
+		System.out.println("WELCOME JAVA TRAINING...");
 
 		
 	}
